@@ -1,0 +1,15 @@
+/target
+**/*.rs.bk
+Cargo.lock
+bin/
+pkg/
+wasm-pack.log
+
+.cargo-ok
+
+*.yml
+
+www/.bin
+www/node_modules
+www/package-lock.json
+www/.travis.yml
